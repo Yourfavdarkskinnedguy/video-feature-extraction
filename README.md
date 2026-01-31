@@ -41,6 +41,8 @@ The ratio gives a simple indication of whether the video is more person-focused 
 ### How to Run
 -Clone the repository
 
+-cd into the working directory by running 'cd video-feature-extraction' in terminal
+
 -Install the dependencies pip install -r requirements.txt
 
 -add the filepath to your video file in the filepath variable at the top
